@@ -1,5 +1,7 @@
 # teube
 
+![](cover.png)
+
 Le pendant d'`ultrathink` pour Claude Code. Tape **ultrateube** dans ton message et ce tour-là, et lui seul, tourne en effort `low`. Le message suivant reprend ton effort habituel.
 
 Pensé pour les questions simples au milieu d'une session lourde : tu tournes en `xhigh`, Claude vient de te livrer un pavé, et tu veux juste qu'il le reformule sans brûler des tokens de réflexion.
