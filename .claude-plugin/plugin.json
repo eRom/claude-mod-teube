@@ -1,0 +1,7 @@
+{
+  "name": "teube",
+  "version": "0.1.0",
+  "description": "Mod teubé by eRom: type ultrateube in a prompt and that turn alone runs at effort low.",
+  "author": { "name": "eRom" },
+  "license": "MIT"
+}

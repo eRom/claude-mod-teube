@@ -1,0 +1,12 @@
+{
+  "name": "claude-mod-teube",
+  "owner": { "name": "eRom" },
+  "description": "teube, the ultrathink counterpart: one keyword, one turn at effort low.",
+  "plugins": [
+    {
+      "name": "teube",
+      "source": "./",
+      "description": "Type ultrateube in a prompt and that turn alone runs at effort low."
+    }
+  ]
+}
